@@ -27,6 +27,7 @@ git clone - copia um repositório remoto
 git status - mostra a situação da nossa árvore de arquivos e dos nossos arquivos em relação ao git
 git log - mostra nossa lista de commit
 git add - adiciona o arquivo no git
+git commit - salva alterações nos arquivos e diretórios
 ```
 
 ## 🔎 Referências
